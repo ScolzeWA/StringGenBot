@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/SCOLZEWA/StringGenBot": {
+  "repository": "https://github.com/SCOLZEWA/STRINGGENBOT": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
       "required": true,
@@ -44,7 +44,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "Gr_Music_World"
+      "value": "GR_WORLD_MUSIC"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
